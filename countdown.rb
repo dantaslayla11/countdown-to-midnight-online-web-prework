@@ -1,8 +1,8 @@
 def countdown
 $i = 0
-$num = 5
+$num = 12
 
 while $i < $num  do
-   puts("Inside the loop i = #$i" )
+   puts("HAPPY NEW YEAR")
    $i +=1
 end
